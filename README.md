@@ -5,7 +5,7 @@ In diesem Git werden selbst erstellte Skripte teilweise oder ganz veröffentlich
 Probleme können im folgendem Discord gemeldet werden:
 [EN] You can ask questions or report bugs in this Discord: 
 
-# Ticket Tool
+<h1> Ticket Tool </h1>
 Das Discord Ticket Tool (tickettool.py) funktioniert mit der Discord UI, Discord Interactions und globalen Varaiblen (global) 
 [EN] The Discord Ticket Tool (tickettool.py) works with the Discord Ui, Discord Interactions and global variables
 
