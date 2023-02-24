@@ -1,2 +1,2 @@
 # FeuerBot
-Changelogs der Alpha 1.4
+In diesem Git werden selbst erstellte Skripte teilweise oder ganz veröffentlicht
