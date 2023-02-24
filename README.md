@@ -1,17 +1,21 @@
+<h1 align="center">FeuerBot</h1>
+<h2 align="center">This Git will be for uploading our scripts from our own bot - the FeuerBot</h3>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a></p>
 
-# FeuerBot
-In diesem Git werden selbst erstellte Skripte teilweise oder ganz veröffentlicht
-[EN] This Git will be for uploading our private files and scripts
+<h1 align="center">Information</h1>
+<p>In diesem Git werden selbst erstellte Skripte teilweise oder ganz veröffentlicht</p>
+<p>[EN] This Git will be for uploading our private files and scripts</p>
 
-Probleme können im folgendem Discord gemeldet werden:
-[EN] You can ask questions or report bugs in this Discord: 
+<p>Probleme können im folgendem Discord gemeldet werden:</p>
+<p>[EN] You can ask questions or report bugs in this Discord:</p>
 
-<h1> Ticket Tool </h1>
-Das Discord Ticket Tool (tickettool.py) funktioniert mit der Discord UI, Discord Interactions und globalen Varaiblen (global) 
-[EN] The Discord Ticket Tool (tickettool.py) works with the Discord Ui, Discord Interactions and global variables
+<h1 align="center">Ticket Tool</h1>
+<p>Das Discord Ticket Tool (tickettool.py) funktioniert mit der Discord UI, Discord Interactions und globalen Varaiblen (global)</p>
+<p>[EN] The Discord Ticket Tool (tickettool.py) works with the Discord Ui, Discord Interactions and global variables</p>
 
-Das Ticket-Tool kann 1:1 in den Python Code (Discord.py 2.0) kopiert werden. Möglicherweise müssen die discord.ext und Discord UI importiert werden
-[EN] The Ticket-Tool can be copied directly into the Python Code (Discord.py 2.0). Maybe you have to import the discord.ext and Discord UI libaries.
+<p>Das Ticket-Tool kann 1:1 in den Python Code (Discord.py 2.0) kopiert werden. Möglicherweise müssen die discord.ext und Discord UI importiert werden</p>
+<p>[EN] The Ticket-Tool can be copied directly into the Python Code (Discord.py 2.0). Maybe you have to import the discord.ext and Discord UI libaries.</p>
 
+<h1 align="center">Keep Alive</h1>
+<p>Das Keep-Alive Script wird benutzt um den Bot dauerhaft online zu halten, ohne einen direkten Always-On Server zu nutzen. Skripte solcher Art werden vorallem für Server Anbieter, wie Replit verwendet.</p>
