@@ -1,3 +1,11 @@
+import os
+import json
+import logging
+import requests
+import asyncio
+import datetime
+import sys
+
 user_log = logging.getLogger("user_log")
 bot_log = logging.getLogger("bot_log")
 
