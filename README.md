@@ -19,3 +19,8 @@
 
 <h1 align="center">Keep Alive</h1>
 <p>Das Keep-Alive Script wird benutzt um den Bot dauerhaft online zu halten, ohne einen direkten Always-On Server zu nutzen. Skripte solcher Art werden vorallem für Server Anbieter, wie Replit verwendet.</p>
+<p>[EN] The Keep-Alive Script is used to keep the Bot online without using an Always-On Server. Scripts like this one can be used for Server Hoster like Replit</p>
+
+<h1 align="center">Stop Command</h1>
+<p>Der Stop Command wird benutzt um den Bot durch Administratoren zu stoppen. Bei dem Permission Fenster kann jegliche Permission eingestellt werden. Der Command funktioniert nicht per PN</p>
+<p>[EN] The Stop Command is for stopping the Bot directly through Discord. The permission can be every permission possible. The Command can't be used per DM</p>
