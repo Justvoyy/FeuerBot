@@ -7,8 +7,8 @@
 <p>In diesem Git werden selbst erstellte Skripte teilweise oder ganz veröffentlicht</p>
 <p>[EN] This Git will be for uploading our private files and scripts</p>
 
-<p>Probleme können im folgendem Discord gemeldet werden: https://discord.gg/uv2DM38gks</p>
-<p>[EN] You can ask questions or report bugs in this Discord: https://discord.gg/uv2DM38gks</p>
+<p>Die Funktionen könnt ihr auf diesem Discord ausprobieren oder Probleme im Support melden: https://discord.gg/uv2DM38gks</p>
+<p>[EN] You can try the functions or report bugs on this Discord: https://discord.gg/uv2DM38gks</p>
 
 <h1 align="center">Ticket Tool</h1>
 <p>Das Discord Ticket Tool (tickettool.py) funktioniert mit der Discord UI, Discord Interactions und globalen Varaiblen (global)</p>
