@@ -27,4 +27,4 @@
 
 <h1 align="center">Join / Leave Message</h1>
 <p>Bei einem User Join / Leave wird in einen Voice Channel die User Anzahl geschrieben und eine Nachricht in einen Channel gesendet. Beides wird durch das Logging Script gespeichert!</p>
-<p>[EN] At a Join or Leave a Voice Channel will get the acutal user number and a message gets send. Both will be saved with the logging script </p>
+<p>[EN] At a Join or Leave a Voice Channel will get the acutal user number and a message gets send. Both will be saved with the logging script.</p>
