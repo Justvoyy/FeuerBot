@@ -1,7 +1,7 @@
 <h1 align="center">FeuerBot</h1>
 <h2 align="center">This Git is for the scripts I wrote. Hope I can help some of you! If so, leave a Star :)</h3>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a><img src"https://img.shields.io/badge/Discord.py-Rework-red" alt="python" width="40" height="40"/></p>
 
 <h1 align="center">Information</h1>
 <p>In diesem Git werden selbst erstellte Skripte teilweise oder ganz veröffentlicht</p>
