@@ -6,8 +6,9 @@ app = Flask('')
 
 
 @app.route('/')
-def home():
-	return 'Im in!'
+def index():
+  return 'Keep-Alive' #Can be everything even a full website if you import a html page (lookup flask for that)
+
 
 
 def run():
