@@ -32,3 +32,7 @@
 <h1 align="center">Logging</h1>
 <p>Das Logging Skript wird genutzt, damit User oder Bot Aktionen in die Dateien userlog und bot.log gespeichert werden.</p>
 <p>[EN] The Logging script is for saving actions by users or the bot itself. They will be saved in user.log and bot.log</p>
+
+<h1 align="center">Embed Messages</h1>
+<p>Das embed-messages Skript ermöglicht es mit dem /embed Command eine eingebette Nachricht durch den Bot verschicken zu lassen</p>
+<p>[EN] The embed-messages script can be used to create embed messages through the /embed command.</p>
