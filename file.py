@@ -13,10 +13,10 @@ async def file(int: discord.Interaction, datei: app_commands.Choice[str]):
       private = await int.user.create_dm()
       await private.send(file=discord.File(f))
       await int.response.send_message("I send you the Bot-Log File. If you wanted the Userlog try /file Userlog", ephemeral=True)
-      user_log.info(f"{int.user} hat sich die User-Log Datei schicken lassen.")
+      user_log.info(f"{int.user} used /file.")
   elif (datei.value == 'Userlog'):
     with open("user.log", "rb") as f:
       private = await int.user.create_dm()
       await private.send(file=discord.File(f))
       await int.response.send_message("I send you the User-Log File. If you wanted the Userlog try /file Bot", ephemeral=True)
-      user_log.info(f"{int.user} hat sich die User-Log Datei schicken lassen.")
+      user_log.info(f"{int.user} used /file.")
