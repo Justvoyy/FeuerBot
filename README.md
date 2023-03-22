@@ -17,6 +17,10 @@
 <p>Das Ticket-Tool kann 1:1 in den Python Code (Discord.py 2.0) kopiert werden. Möglicherweise müssen die discord.ext und Discord UI importiert werden</p>
 <p>[EN] The Ticket-Tool can be copied directly into the Python Code (Discord.py 2.0). Maybe you have to import the discord.ext and Discord UI libaries.</p>
 
+<h1 align="center">Birthday Script</h1>
+<p>Das Birthday Skript ermöglicht es Geburtstage zu speichern und diese über die birhtdays.json abzurufen!</p>
+<p>[EN] The birthday script makes saving birthdays possible. The bot will gratulate on the birthday!</p>
+
 <h1 align="center">Keep Alive</h1>
 <p>Das Keep-Alive Script wird benutzt um den Bot dauerhaft online zu halten, ohne einen direkten Always-On Server zu nutzen. Skripte solcher Art werden vorallem für Server Anbieter, wie Replit verwendet.</p>
 <p>[EN] The Keep-Alive Script is used to keep the Bot online without using an Always-On Server. Scripts like this one can be used for Server Hoster like Replit</p>
