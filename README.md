@@ -1,8 +1,8 @@
 <h1 align="center">FeuerBot</h1>
 <h2 align="center">This Git is for the scripts I wrote. Hope I can help some of you! If so, leave a Star ;)</h3>
 
-<h1 allign="center">Beta 2.0 Information</h1>
-<h2 allign="center">The Beta 2.0 will be released soon! Big updates will follow. For more information you can join our discord. There can you test the bot directly with all features!</h2>
+<h1 align="center">Beta 2.0 Information</h1>
+<h2 align="center">The Beta 2.0 will be released soon! Big updates will follow. For more information you can join our discord. There can you test the bot directly with all features!</h2>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a></p>
