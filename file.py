@@ -1,8 +1,7 @@
 @tree.command(name="file", description="Sends a file of the Server.")
 @app_commands.choices(datei=[
     app_commands.Choice(name="Sends the Bot-Log File.", value="Botlog"),
-    app_commands.Choice(name="Sends the User-Log File.", value="Userlog")
-    ])
+    app_commands.Choice(name="Sends the User-Log File.", value="Userlog")])
 @app_commands.guild_only()
 @has_permissions(ban_members=True)
 async def file(int: discord.Interaction, datei: app_commands.Choice[str]):
