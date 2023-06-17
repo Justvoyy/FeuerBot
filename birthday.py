@@ -64,7 +64,7 @@ async def add_birthday(interaction: discord.Interaction, tag: str, monat: str):
     save_birthday(name, date, tag, monat)
     await interaction.response.send_message(f"Dein Geburtstag wurde am {date} gespeichert!")
 
-@loop(hours=1)
+@loop(hours=12)
 async def loop_check_birthdays():
     print("Geburtstage werden geprüft!")
     bot_log.info("Geburtstage werden geprüft")
@@ -72,18 +72,21 @@ async def loop_check_birthdays():
     with open('geburtstage.json', 'r') as f:
         data = json.load(f)
     gratulated_today = []
+     def check_gratulated(name):
+      with open("gratulated.txt", "r") as f:
+        gratulated_names = f.read()
+      return name in gratulated_names
     for name, values in data.items():
         tag = values["tag"]
         monat = values["monat"]
         geburtstag = datetime(today.year, monat, tag)
-        if geburtstag.date() == today.date() and name not in gratulated_today:
+        if geburtstag.date() == today.date() and name not in gratulated_today and not check_gratulated(name):
             birthday_channel = client.get_channel(760547543976378398)
             user = await client.fetch_user(name)
             await birthday_channel.send(f"Herzlichen Glückwunsch zum Geburtstag, {user.mention}!")
             gratulated_today.append(name)
-        else:
-            print("Konnte nicht gesendet werden! [Birthday]")
-            bot_log.info("Konnte nicht gesendet werden! [Birthday]")
+            with open("gratulated.txt", "w") as f:
+              f.write(f"{name}"
 
 
 @tree.command(name="geburtstag-löschen", description="Lösche deinen Geburtstag aus der Datenbank")
